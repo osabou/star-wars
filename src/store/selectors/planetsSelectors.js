@@ -1,0 +1,1 @@
+export const getPlanets = (state) => state.planetsSlice.planets;
